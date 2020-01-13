@@ -497,7 +497,7 @@ ui.slider("MISC > Misc preferences", "Rainbow menu speed", "var_rainbotMenuSpd",
 Creates combobox.
 
 ```lua
-ui.combobox("MISC > Misc preferences", "Custom clan-tag", "var_customCTag", { "AIMWARE.net", "gaysense" })
+ui.combobox("MISC > Misc preferences", "Custom clan-tag", "var_customCTag", { "onetap.su", "gamesense.pub" })
 ```
 
 [back to ToC](#-1)
