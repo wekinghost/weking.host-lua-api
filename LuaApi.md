@@ -358,7 +358,7 @@ Sets clantag.
 ```lua
 -- Note: you must NOT set clantag every tick because it will lead lags in movement.
 -- It's better to set it each half of second for example (delay must be at least 100ms)
-client.set_clan_tag("AIMWARE.net")
+client.set_clan_tag("onetap.su")
 ```
 
 [back to ToC](#-1)
